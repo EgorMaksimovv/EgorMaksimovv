@@ -1,8 +1,4 @@
-## Hi there 👋
+Hi, I'm Egor, a 14-year-old Junior Python Developer. I'm currently studying at Yandex Lyceum, exploring the world of programming and building cool projects. Feel free to check out my repos(but they are not there yet)!
 
-• My name: Egor Maksimov
-• My contacts: egmaksimov29@gmail.com @TypicalMayonez
-• My biography: I love Minecraft. I love creating mods for minecraft and I just love creating games on unity
-• I understand Git Python and a little C#
-• Desert Tribes
+
 
